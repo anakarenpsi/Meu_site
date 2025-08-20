@@ -107,7 +107,7 @@ const Navbar = () => {
                 onClick={() => scrollToSection('contact')}
                 className="bg-primary hover:bg-primary/90 text-primary-foreground rounded-full mt-4"
               >
-                Agendar Sessão
+                Agendar Consulta
               </Button>
             </div>
           </div>
